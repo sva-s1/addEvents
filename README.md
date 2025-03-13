@@ -188,8 +188,8 @@ This project is licensed under the MIT License.
 
 ## 💡 Why This Matters for SentinelOne Customers
 
-✔ **Simplifies POC/POV Testing** – No need to install the **S1 Collector agent** just to validate log ingestion.
-✔ **Agentless Validation** – Some customers **can't install an agent** due to **change control or security policies**.
+✔ **Simplifies POC/POV Testing** – No need to install the **S1 Collector agent** just to validate log ingestion. </br>
+✔ **Agentless Validation** – Some customers **can't install an agent** due to **change control or security policies**. </br>
 ✔ **Faster Buy-in** – Engineers can **test first**, evaluate data flow, and later decide on full deployment.
 
 🔥 **Need to prove SentinelOne log ingestion?**
