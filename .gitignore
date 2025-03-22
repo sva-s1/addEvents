@@ -1,1 +1,16 @@
+# macOS system file
+.DS_Store
+
+# Environment file
 .env
+
+# IDE/Editor-specific settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files (if you generate any)
+*.log
+*.out
