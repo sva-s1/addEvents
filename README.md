@@ -209,3 +209,5 @@ This script offers an **agentless** method to validate your SentinelOne ingestio
 
 - **Web UI alternative**  
   A lightweight web interface to trigger and view log generation without a command-line script.
+
+
