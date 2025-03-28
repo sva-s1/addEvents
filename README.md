@@ -7,7 +7,7 @@
 
 ## 🔥 Why This Exists
 
-Many **existing or prospective SentinelOne customers** want an **agentless alternative** to quickly validate **log ingestion** in **non-production** environments (e.g., POC/POV, Dev, QA). Rather than waiting on **change control** or coordinating with OS teams to install the [S1 Collector](#s1-collector-vs-api-ingestion), this script sends events **directly** to the **same `addEvents` API** used by the **S1 Collector**—just **without** the need to install an agent.
+Many **existing or prospective SentinelOne customers** want an **agentless alternative** to quickly validate **log ingestion** in **non-production** environments (e.g., POC/POV, Dev, QA). Rather than waiting on **change control** or coordinating with OS teams to install the [S1 Collector](https://community.sentinelone.com/s/article/000006801), this script sends events **directly** to the **same `addEvents` API** used by the **S1 Collector**—just **without** the need to install an agent.
 
 > **Recommended Use Case**: Accelerate your **POC/POV** or other **pre-production** testing scenarios. Quickly **validate ingestion flows** without additional software overhead—so you can **iterate faster**, gather feedback, and make decisions sooner.
 
