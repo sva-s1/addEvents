@@ -187,8 +187,6 @@ This project is distributed under the **MIT License**. See the [`LICENSE`](LICEN
 
 - “SentinelOne (S1),” “Scalyr,” and “Dataset” are registered trademarks of their respective owners. This project is **not** affiliated with nor endorsed by those entities in any way.
 
-<br>
-
 ---
 
 ## 🙌 Contributing
