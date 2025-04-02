@@ -183,6 +183,12 @@ Feel free to edit any parts of the script to align with your internal naming con
 
 This project is distributed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
 
+**Trademarks:**
+
+- “SentinelOne (S1),” “Scalyr,” and “Dataset” are registered trademarks of their respective owners. This project is **not** affiliated with nor endorsed by those entities in any way.
+
+<br>
+
 ---
 
 ## 🙌 Contributing
